@@ -92,5 +92,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to the open-source community for providing valuable resources and tools.
 
 ---
-
-Feel free to modify this template as per your project's requirements. Once you add more details about the deployment and other features, you can update the README accordingly.
